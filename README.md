@@ -1,6 +1,6 @@
 # 🧠 Nguli LeetCode itu SERUUUU bangettt (jujur ini ga jujur...😓)
 
-> _Belajar DSA? Boleh. Ngakak sambil debug? Wajib._ 😆
+> _Belajar DSA Wajib? Ga juga sii 😆
 
 Halo! 👋  
 Ini repo buat **ngisi kegabutan aja** di sela sela kesibukan (ceilah sibuk),,,  
