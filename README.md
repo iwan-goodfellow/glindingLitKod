@@ -27,7 +27,7 @@ Sebagai seorang Data Geeks yang kadang lebih sayang ke `pytorch` daripada `pyoin
 ## 📌 Note Penting
 
 > **"Done is better than perfect."**  
-> Kadang ngerjain 1 soal itu lebih penting dari nunggu motivasi sempurna. (ini cuma ngambil quotes -__-)
+> Kadang ngerjain 1 soal itu lebih penting daripada nunggu motivasi dateng. (ini cuma ngambil quotes -__-)
 
 Repo ini open banget for PR & roasting 🫡
 
