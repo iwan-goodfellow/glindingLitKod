@@ -16,7 +16,7 @@ def searchMatrix(matrix, target):
         # tengah row kan brati kita bagikan dia dg si n(jum kolomnya)
         mid_row = mid//n
         mid_col = mid%n
-        mid_value = matrix[mid_row][mid_col]
+        mid_value = matrix[mid_row][mid_col] # mngambil nilai tengahnya
 
         if mid_value == target:
             return True
@@ -28,4 +28,4 @@ def searchMatrix(matrix, target):
 
 
 # contoh case 
-searchMatrix(matrix = [[1,2,4,8],[10,11,12,13],[14,20,30,40]], target = 10)
+# searchMatrix(matrix = [[1,2,4,8],[10,11,12,13],[14,20,30,40]], target = 10)
